@@ -15,6 +15,7 @@ import lv from './lv.json'
 import sv from './sv.json'
 import sk from './sk.json'
 import vi from './vi.json'
+import zh_TW from './zh-tw.json'
 
 Vue.use(VueI18n)
 
@@ -37,6 +38,7 @@ const i18n = new VueI18n({
     sv,
     sk,
     vi,
+    zh_TW,
   },
 })
 
