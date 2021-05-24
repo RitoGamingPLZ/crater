@@ -8,13 +8,13 @@
     >
       <img
         id="logo-white"
-        src="/assets/img/logo-white.png"
+        src="/assets/img/EzAcc-desktop-logo.png"
         alt="Crater Logo"
         class="hidden h-6 md:block"
       />
       <img
         id="logo-mobile"
-        src="/assets/img/crater-white-small.png"
+        src="/assets/img/EzAcc-mobile-logo.png"
         alt="Crater Logo"
         class="block h-8 md:hidden"
       />
