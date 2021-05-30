@@ -6,7 +6,7 @@
 /.idea
 Homestead.json
 Homestead.yaml
-.env
+# .env
 .phpunit.result.cache
 .rnd
 /.expo
