@@ -36,9 +36,4 @@ RUN mkdir -p /home/$user/.composer && \
 # Set working directory
 WORKDIR /var/www
 
-RUN composer install --no-interaction --prefer-dist --optimize-autoloader
-RUN php artisan storage:link || true
-RUN php artisan key:generate
-# RUN php artisan serve
-
 USER $user
