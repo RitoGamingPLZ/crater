@@ -25,6 +25,7 @@
         "spatie/flysystem-dropbox": "^1.2",
         "spatie/laravel-backup": "^6.11",
         "spatie/laravel-medialibrary": "^8.7",
+        "stancl/tenancy": "^3.4",
         "vinkla/hashids": "^9.0"
     },
     "require-dev": {

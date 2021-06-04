@@ -21,7 +21,7 @@ class RedirectIfInstalled
                 return redirect('login');
             }
         }
-
+        
         return $next($request);
     }
 }
